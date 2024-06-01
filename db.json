@@ -1,0 +1,1380 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Samsung Galaxy S21",
+      "price": 799.99,
+      "model": "S21",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "releaseYear": 2021,
+      "features": [
+        "5G",
+        "128GB Storage",
+        "8GB RAM"
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Apple iPhone 13",
+      "price": 899.99,
+      "model": "iPhone 13",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "releaseYear": 2021,
+      "features": [
+        "5G",
+        "128GB Storage",
+        "6GB RAM"
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Sony WH-1000XM4",
+      "price": 349.99,
+      "model": "WH-1000XM4",
+      "brand": "Sony",
+      "category": "Headphones",
+      "releaseYear": 2020,
+      "features": [
+        "Noise Cancelling",
+        "30 Hours Battery Life",
+        "Wireless"
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Dell XPS 13",
+      "price": 999.99,
+      "model": "XPS 13",
+      "brand": "Dell",
+      "category": "Laptop",
+      "releaseYear": 2021,
+      "features": [
+        "13.4-inch Display",
+        "Intel i7",
+        "16GB RAM",
+        "512GB SSD"
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Apple MacBook Air",
+      "price": 1099.99,
+      "model": "MacBook Air",
+      "brand": "Apple",
+      "category": "Laptop",
+      "releaseYear": 2021,
+      "features": [
+        "M1 Chip",
+        "13.3-inch Display",
+        "8GB RAM",
+        "256GB SSD"
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Bose QuietComfort 35 II",
+      "price": 299.99,
+      "model": "QuietComfort 35 II",
+      "brand": "Bose",
+      "category": "Headphones",
+      "releaseYear": 2017,
+      "features": [
+        "Noise Cancelling",
+        "20 Hours Battery Life",
+        "Wireless"
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Samsung Galaxy Tab S7",
+      "price": 649.99,
+      "model": "Tab S7",
+      "brand": "Samsung",
+      "category": "Tablet",
+      "releaseYear": 2020,
+      "features": [
+        "11-inch Display",
+        "128GB Storage",
+        "6GB RAM",
+        "S Pen"
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Apple iPad Pro",
+      "price": 999.99,
+      "model": "iPad Pro",
+      "brand": "Apple",
+      "category": "Tablet",
+      "releaseYear": 2021,
+      "features": [
+        "12.9-inch Display",
+        "128GB Storage",
+        "8GB RAM",
+        "M1 Chip"
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Amazon Echo Dot (4th Gen)",
+      "price": 49.99,
+      "model": "Echo Dot",
+      "brand": "Amazon",
+      "category": "Smart Speaker",
+      "releaseYear": 2020,
+      "features": [
+        "Alexa",
+        "Compact Design",
+        "Improved Sound"
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Google Nest Hub",
+      "price": 99.99,
+      "model": "Nest Hub",
+      "brand": "Google",
+      "category": "Smart Display",
+      "releaseYear": 2021,
+      "features": [
+        "7-inch Display",
+        "Google Assistant",
+        "Smart Home Control"
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Sony Bravia X90J",
+      "price": 1499.99,
+      "model": "X90J",
+      "brand": "Sony",
+      "category": "Television",
+      "releaseYear": 2021,
+      "features": [
+        "55-inch Display",
+        "4K UHD",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": "12",
+      "name": "LG OLED CX",
+      "price": 1799.99,
+      "model": "OLED CX",
+      "brand": "LG",
+      "category": "Television",
+      "releaseYear": 2020,
+      "features": [
+        "65-inch Display",
+        "4K UHD",
+        "Smart TV"
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Nikon D850",
+      "price": 2999.99,
+      "model": "D850",
+      "brand": "Nikon",
+      "category": "Camera",
+      "releaseYear": 2017,
+      "features": [
+        "45.7 MP",
+        "4K Video",
+        "Full Frame"
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Canon EOS R5",
+      "price": 3899.99,
+      "model": "EOS R5",
+      "brand": "Canon",
+      "category": "Camera",
+      "releaseYear": 2020,
+      "features": [
+        "45 MP",
+        "8K Video",
+        "Full Frame"
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Microsoft Surface Laptop 4",
+      "price": 1299.99,
+      "model": "Surface Laptop 4",
+      "brand": "Microsoft",
+      "category": "Laptop",
+      "releaseYear": 2021,
+      "features": [
+        "13.5-inch Display",
+        "AMD Ryzen 5",
+        "8GB RAM",
+        "256GB SSD"
+      ]
+    },
+    {
+      "id": "16",
+      "name": "HP Spectre x360",
+      "price": 1399.99,
+      "model": "Spectre x360",
+      "brand": "HP",
+      "category": "Laptop",
+      "releaseYear": 2021,
+      "features": [
+        "14-inch Display",
+        "Intel i7",
+        "16GB RAM",
+        "512GB SSD"
+      ]
+    },
+    {
+      "id": "17",
+      "name": "ASUS ROG Zephyrus G14",
+      "price": 1499.99,
+      "model": "Zephyrus G14",
+      "brand": "ASUS",
+      "category": "Laptop",
+      "releaseYear": 2020,
+      "features": [
+        "14-inch Display",
+        "AMD Ryzen 9",
+        "16GB RAM",
+        "1TB SSD"
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Apple AirPods Pro",
+      "price": 249.99,
+      "model": "AirPods Pro",
+      "brand": "Apple",
+      "category": "Earbuds",
+      "releaseYear": 2019,
+      "features": [
+        "Noise Cancelling",
+        "Wireless Charging",
+        "Sweat and Water Resistant"
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Samsung Galaxy Buds Pro",
+      "price": 199.99,
+      "model": "Buds Pro",
+      "brand": "Samsung",
+      "category": "Earbuds",
+      "releaseYear": 2021,
+      "features": [
+        "Noise Cancelling",
+        "Wireless Charging",
+        "Water Resistant"
+      ]
+    },
+    {
+      "id": "20",
+      "name": "DJI Mavic Air 2",
+      "price": 799.99,
+      "model": "Mavic Air 2",
+      "brand": "DJI",
+      "category": "Drone",
+      "releaseYear": 2020,
+      "features": [
+        "48MP Camera",
+        "4K Video",
+        "34 Minutes Flight Time"
+      ]
+    },
+    {
+      "id": "21",
+      "name": "GoPro HERO9 Black",
+      "price": 399.99,
+      "model": "HERO9 Black",
+      "brand": "GoPro",
+      "category": "Action Camera",
+      "releaseYear": 2020,
+      "features": [
+        "5K Video",
+        "20MP Photos",
+        "Waterproof"
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Amazon Fire TV Stick 4K",
+      "price": 49.99,
+      "model": "Fire TV Stick 4K",
+      "brand": "Amazon",
+      "category": "Streaming Device",
+      "releaseYear": 2018,
+      "features": [
+        "4K UHD",
+        "Alexa Voice Remote",
+        "HDR"
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Roku Streaming Stick+",
+      "price": 59.99,
+      "model": "Streaming Stick+",
+      "brand": "Roku",
+      "category": "Streaming Device",
+      "releaseYear": 2017,
+      "features": [
+        "4K UHD",
+        "Voice Remote",
+        "HDR"
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Fitbit Charge 4",
+      "price": 149.99,
+      "model": "Charge 4",
+      "brand": "Fitbit",
+      "category": "Fitness Tracker",
+      "releaseYear": 2020,
+      "features": [
+        "Built-in GPS",
+        "Heart Rate Monitor",
+        "Sleep Tracking"
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Garmin Forerunner 245",
+      "price": 299.99,
+      "model": "Forerunner 245",
+      "brand": "Garmin",
+      "category": "Fitness Tracker",
+      "releaseYear": 2019,
+      "features": [
+        "GPS",
+        "Heart Rate Monitor",
+        "Music"
+      ]
+    },
+    {
+      "id": "26",
+      "name": "JBL Flip 5",
+      "price": 119.99,
+      "model": "Flip 5",
+      "brand": "JBL",
+      "category": "Bluetooth Speaker",
+      "releaseYear": 2019,
+      "features": [
+        "Waterproof",
+        "12 Hours Playtime",
+        "Portable"
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Ultimate Ears BOOM 3",
+      "price": 149.99,
+      "model": "BOOM 3",
+      "brand": "Ultimate Ears",
+      "category": "Bluetooth Speaker",
+      "releaseYear": 2018,
+      "features": [
+        "Waterproof",
+        "15 Hours Playtime",
+        "360° Sound"
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Ring Video Doorbell 3",
+      "price": 199.99,
+      "model": "Video Doorbell 3",
+      "brand": "Ring",
+      "category": "Smart Home",
+      "releaseYear": 2020,
+      "features": [
+        "1080p HD Video",
+        "Two-Way Talk",
+        "Motion Detection"
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Google Nest Learning Thermostat",
+      "price": 249.99,
+      "model": "Nest Learning Thermostat",
+      "brand": "Google",
+      "category": "Smart Home",
+      "releaseYear": 2017,
+      "features": [
+        "Smart Temperature Control",
+        "Energy Saving",
+        "Remote Control"
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Philips Hue White and Color Ambiance",
+      "price": 199.99,
+      "model": "Hue White and Color Ambiance",
+      "brand": "Philips",
+      "category": "Smart Lighting",
+      "releaseYear": 2019,
+      "features": [
+        "16 Million Colors",
+        "Voice Control",
+        "Energy Efficient"
+      ]
+    },
+    {
+      "id": "31",
+      "name": "Logitech MX Master 3",
+      "price": 99.99,
+      "model": "MX Master 3",
+      "brand": "Logitech",
+      "category": "Mouse",
+      "releaseYear": 2019,
+      "features": [
+        "Wireless",
+        "Ergonomic",
+        "Customizable Buttons"
+      ]
+    },
+    {
+      "id": "32",
+      "name": "Razer DeathAdder V2",
+      "price": 69.99,
+      "model": "DeathAdder V2",
+      "brand": "Razer",
+      "category": "Mouse",
+      "releaseYear": 2020,
+      "features": [
+        "Wired",
+        "Ergonomic",
+        "20,000 DPI"
+      ]
+    },
+    {
+      "id": "33",
+      "name": "Corsair K95 RGB Platinum XT",
+      "price": 199.99,
+      "model": "K95 RGB Platinum XT",
+      "brand": "Corsair",
+      "category": "Keyboard",
+      "releaseYear": 2020,
+      "features": [
+        "Mechanical",
+        "RGB Lighting",
+        "Programmable Keys"
+      ]
+    },
+    {
+      "id": "34",
+      "name": "SteelSeries Apex Pro",
+      "price": 179.99,
+      "model": "Apex Pro",
+      "brand": "SteelSeries",
+      "category": "Keyboard",
+      "releaseYear": 2019,
+      "features": [
+        "Mechanical",
+        "RGB Lighting",
+        "Adjustable Actuation"
+      ]
+    },
+    {
+      "id": "35",
+      "name": "Samsung T7 Portable SSD",
+      "price": 139.99,
+      "model": "T7 Portable SSD",
+      "brand": "Samsung",
+      "category": "Storage",
+      "releaseYear": 2020,
+      "features": [
+        "1TB",
+        "USB 3.2",
+        "Shock Resistant"
+      ]
+    },
+    {
+      "id": "36",
+      "name": "WD My Passport",
+      "price": 119.99,
+      "model": "My Passport",
+      "brand": "Western Digital",
+      "category": "Storage",
+      "releaseYear": 2019,
+      "features": [
+        "2TB",
+        "USB 3.0",
+        "Password Protection"
+      ]
+    },
+    {
+      "id": "37",
+      "name": "LG UltraFine 5K Display",
+      "price": 1299.99,
+      "model": "UltraFine 5K",
+      "brand": "LG",
+      "category": "Monitor",
+      "releaseYear": 2019,
+      "features": [
+        "27-inch",
+        "5K Resolution",
+        "Thunderbolt 3"
+      ]
+    },
+    {
+      "id": "38",
+      "name": "Dell UltraSharp U2720Q",
+      "price": 639.99,
+      "model": "UltraSharp U2720Q",
+      "brand": "Dell",
+      "category": "Monitor",
+      "releaseYear": 2020,
+      "features": [
+        "27-inch",
+        "4K UHD",
+        "USB-C"
+      ]
+    },
+    {
+      "id": "39",
+      "name": "Apple Watch Series 6",
+      "price": 399.99,
+      "model": "Watch Series 6",
+      "brand": "Apple",
+      "category": "Smartwatch",
+      "releaseYear": 2020,
+      "features": [
+        "Blood Oxygen Monitor",
+        "ECG",
+        "Always-On Display"
+      ]
+    },
+    {
+      "id": "40",
+      "name": "Samsung Galaxy Watch 3",
+      "price": 349.99,
+      "model": "Galaxy Watch 3",
+      "brand": "Samsung",
+      "category": "Smartwatch",
+      "releaseYear": 2020,
+      "features": [
+        "ECG",
+        "Blood Pressure Monitor",
+        "Sleep Tracking"
+      ]
+    },
+    {
+      "id": "41",
+      "name": "Garmin Fenix 6 Pro",
+      "price": 649.99,
+      "model": "Fenix 6 Pro",
+      "brand": "Garmin",
+      "category": "Smartwatch",
+      "releaseYear": 2019,
+      "features": [
+        "GPS",
+        "Heart Rate Monitor",
+        "Music"
+      ]
+    },
+    {
+      "id": "42",
+      "name": "Apple TV 4K",
+      "price": 179.99,
+      "model": "Apple TV 4K",
+      "brand": "Apple",
+      "category": "Streaming Device",
+      "releaseYear": 2021,
+      "features": [
+        "4K UHD",
+        "Siri Remote",
+        "HDR"
+      ]
+    },
+    {
+      "id": "43",
+      "name": "NVIDIA Shield TV Pro",
+      "price": 199.99,
+      "model": "Shield TV Pro",
+      "brand": "NVIDIA",
+      "category": "Streaming Device",
+      "releaseYear": 2019,
+      "features": [
+        "4K UHD",
+        "Dolby Vision",
+        "Google Assistant"
+      ]
+    },
+    {
+      "id": "44",
+      "name": "Amazon Kindle Paperwhite",
+      "price": 129.99,
+      "model": "Kindle Paperwhite",
+      "brand": "Amazon",
+      "category": "E-Reader",
+      "releaseYear": 2018,
+      "features": [
+        "Waterproof",
+        "Adjustable Light",
+        "8GB Storage"
+      ]
+    },
+    {
+      "id": "45",
+      "name": "Sony PlayStation 5",
+      "price": 499.99,
+      "model": "PlayStation 5",
+      "brand": "Sony",
+      "category": "Gaming Console",
+      "releaseYear": 2020,
+      "features": [
+        "8K Output",
+        "Ultra-High Speed SSD",
+        "Ray Tracing"
+      ]
+    },
+    {
+      "id": "46",
+      "name": "Microsoft Xbox Series X",
+      "price": 499.99,
+      "model": "Xbox Series X",
+      "brand": "Microsoft",
+      "category": "Gaming Console",
+      "releaseYear": 2020,
+      "features": [
+        "8K HDR",
+        "1TB SSD",
+        "Ray Tracing"
+      ]
+    },
+    {
+      "id": "47",
+      "name": "Nintendo Switch",
+      "price": 299.99,
+      "model": "Switch",
+      "brand": "Nintendo",
+      "category": "Gaming Console",
+      "releaseYear": 2017,
+      "features": [
+        "Handheld Mode",
+        "Docking Station",
+        "Joy-Con Controllers"
+      ]
+    },
+    {
+      "id": "48",
+      "name": "Samsung Galaxy Note 20",
+      "price": 999.99,
+      "model": "Galaxy Note 20",
+      "brand": "Samsung",
+      "category": "Smartphone",
+      "releaseYear": 2020,
+      "features": [
+        "5G",
+        "128GB Storage",
+        "8GB RAM",
+        "S Pen"
+      ]
+    },
+    {
+      "id": "49",
+      "name": "OnePlus 9 Pro",
+      "price": 969.99,
+      "model": "9 Pro",
+      "brand": "OnePlus",
+      "category": "Smartphone",
+      "releaseYear": 2021,
+      "features": [
+        "5G",
+        "256GB Storage",
+        "12GB RAM",
+        "120Hz Display"
+      ]
+    },
+    {
+      "id": "50",
+      "name": "Sony A7 III",
+      "price": 1999.99,
+      "model": "A7 III",
+      "brand": "Sony",
+      "category": "Camera",
+      "releaseYear": 2018,
+      "features": [
+        "24.2 MP",
+        "4K Video",
+        "Full Frame"
+      ]
+    },
+    {
+      "id": "eb89",
+      "name": "asd",
+      "price": 3301,
+      "brand": "",
+      "category": "",
+      "releaseYear": 2122,
+      "features": [
+        "6g",
+        "512gb storage",
+        "32gb ram"
+      ]
+    },
+    {
+      "id": "2de8",
+      "name": "",
+      "price": null,
+      "model": "EOS R5",
+      "brand": "Canon",
+      "category": "Camera",
+      "releaseYear": null,
+      "features": []
+    },
+    {
+      "id": "39f1",
+      "name": "BPL C211-bt",
+      "price": 199,
+      "model": "C211-bt",
+      "brand": "BPL",
+      "category": "trimmer",
+      "releaseYear": 2020,
+      "features": [
+        "90min playtime",
+        "30min charge",
+        "0-10mm",
+        "travel bag"
+      ]
+    },
+    {
+      "id": "022e",
+      "name": "BPL C211-bt",
+      "price": 99,
+      "model": "C211-bt",
+      "brand": "BPL",
+      "category": "trimmer",
+      "releaseYear": 2021,
+      "features": [
+        "90min playtime",
+        "30min charge",
+        "0-10mm",
+        "travel bag"
+      ]
+    },
+    {
+      "id": "7195",
+      "name": "smart leptop bag",
+      "price": 399,
+      "model": "up-305",
+      "brand": "Uppercase",
+      "category": "smart bag",
+      "releaseYear": 2024,
+      "features": [
+        "8h charge life for phone"
+      ]
+    },
+    {
+      "id": "7dd9",
+      "name": "smart up-305 bag",
+      "price": 599,
+      "model": "up-305",
+      "brand": "Uppercase",
+      "category": "smart bag",
+      "releaseYear": 2024,
+      "features": [
+        "light wight",
+        "always location on",
+        "track to bag",
+        "2h charge time",
+        "20h palytime",
+        " sound last 10% battery left",
+        "notification when 50m distance "
+      ]
+    },
+    {
+      "id": "54e3",
+      "name": "boat wave call",
+      "price": 150,
+      "model": "call wave",
+      "brand": "boat",
+      "category": "watch",
+      "releaseYear": 2021,
+      "features": [
+        "blood presser miter",
+        "5 atm waterproof",
+        "1 week bettery life",
+        "light weight",
+        "metal body"
+      ]
+    },
+    {
+      "id": "4fe5",
+      "name": "air",
+      "price": 1221121,
+      "model": "MacBook Air",
+      "brand": "Apple",
+      "category": "Laptop",
+      "releaseYear": null,
+      "features": [
+        "20h palytime",
+        " sound last 10% battery left",
+        "notification when 50m distance ",
+        "edfsdw",
+        "ewfwe",
+        "23sf"
+      ]
+    },
+    {
+      "id": "937c",
+      "name": "iphone 22",
+      "price": 1212211,
+      "model": "iPhone 13",
+      "brand": "Apple",
+      "category": "Smartphone",
+      "releaseYear": 2025,
+      "features": [
+        "efwe",
+        "dvdsvs",
+        "sdvdsvsd",
+        "sdvdsv"
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Smartphone"
+    },
+    {
+      "id": "2",
+      "name": "Headphones"
+    },
+    {
+      "id": "3",
+      "name": "Laptop"
+    },
+    {
+      "id": "4",
+      "name": "Tablet"
+    },
+    {
+      "id": "5",
+      "name": "Smart Speaker"
+    },
+    {
+      "id": "6",
+      "name": "Smart Display"
+    },
+    {
+      "id": "7",
+      "name": "Television"
+    },
+    {
+      "id": "8",
+      "name": "Camera"
+    },
+    {
+      "id": "9",
+      "name": "Earbuds"
+    },
+    {
+      "id": "10",
+      "name": "Drone"
+    },
+    {
+      "id": "11",
+      "name": "Action Camera"
+    },
+    {
+      "id": "12",
+      "name": "Streaming Device"
+    },
+    {
+      "id": "13",
+      "name": "Fitness Tracker"
+    },
+    {
+      "id": "14",
+      "name": "Bluetooth Speaker"
+    },
+    {
+      "id": "15",
+      "name": "Smart Home"
+    },
+    {
+      "id": "16",
+      "name": "Smart Lighting"
+    },
+    {
+      "id": "17",
+      "name": "Mouse"
+    },
+    {
+      "id": "18",
+      "name": "Keyboard"
+    },
+    {
+      "id": "19",
+      "name": "Storage"
+    },
+    {
+      "id": "20",
+      "name": "Monitor"
+    },
+    {
+      "id": "21",
+      "name": "Smartwatch"
+    },
+    {
+      "id": "22",
+      "name": "E-Reader"
+    },
+    {
+      "id": "23",
+      "name": "Gaming Console"
+    }
+  ],
+  "brands": [
+    {
+      "id": "1",
+      "name": "Samsung"
+    },
+    {
+      "id": "2",
+      "name": "Apple"
+    },
+    {
+      "id": "3",
+      "name": "Sony"
+    },
+    {
+      "id": "4",
+      "name": "Dell"
+    },
+    {
+      "id": "5",
+      "name": "Bose"
+    },
+    {
+      "id": "6",
+      "name": "Amazon"
+    },
+    {
+      "id": "7",
+      "name": "Google"
+    },
+    {
+      "id": "8",
+      "name": "LG"
+    },
+    {
+      "id": "9",
+      "name": "Nikon"
+    },
+    {
+      "id": "10",
+      "name": "Canon"
+    },
+    {
+      "id": "11",
+      "name": "Microsoft"
+    },
+    {
+      "id": "12",
+      "name": "HP"
+    },
+    {
+      "id": "13",
+      "name": "ASUS"
+    },
+    {
+      "id": "14",
+      "name": "DJI"
+    },
+    {
+      "id": "15",
+      "name": "GoPro"
+    },
+    {
+      "id": "16",
+      "name": "Roku"
+    },
+    {
+      "id": "17",
+      "name": "Fitbit"
+    },
+    {
+      "id": "18",
+      "name": "Garmin"
+    },
+    {
+      "id": "19",
+      "name": "JBL"
+    },
+    {
+      "id": "20",
+      "name": "Ultimate Ears"
+    },
+    {
+      "id": "21",
+      "name": "Ring"
+    },
+    {
+      "id": "22",
+      "name": "Philips"
+    },
+    {
+      "id": "23",
+      "name": "Logitech"
+    },
+    {
+      "id": "24",
+      "name": "Razer"
+    },
+    {
+      "id": "25",
+      "name": "Corsair"
+    },
+    {
+      "id": "26",
+      "name": "SteelSeries"
+    },
+    {
+      "id": "27",
+      "name": "Western Digital"
+    },
+    {
+      "id": "28",
+      "name": "Nintendo"
+    },
+    {
+      "id": "29",
+      "name": "NVIDIA"
+    },
+    {
+      "id": "490f",
+      "name": "realme"
+    }
+  ],
+  "models": [
+    {
+      "id": "1",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "S21"
+    },
+    {
+      "id": "2",
+      "category": "Smartphone",
+      "brand": "Apple",
+      "model": "iPhone 13"
+    },
+    {
+      "id": "3",
+      "category": "Headphones",
+      "brand": "Sony",
+      "model": "WH-1000XM4"
+    },
+    {
+      "id": "4",
+      "category": "Laptop",
+      "brand": "Dell",
+      "model": "XPS 13"
+    },
+    {
+      "id": "5",
+      "category": "Laptop",
+      "brand": "Apple",
+      "model": "MacBook Air"
+    },
+    {
+      "id": "6",
+      "category": "Headphones",
+      "brand": "Bose",
+      "model": "QuietComfort 35 II"
+    },
+    {
+      "id": "7",
+      "category": "Tablet",
+      "brand": "Samsung",
+      "model": "Tab S7"
+    },
+    {
+      "id": "8",
+      "category": "Tablet",
+      "brand": "Apple",
+      "model": "iPad Pro"
+    },
+    {
+      "id": "9",
+      "category": "Smart Speaker",
+      "brand": "Amazon",
+      "model": "Echo Dot"
+    },
+    {
+      "id": "10",
+      "category": "Smart Display",
+      "brand": "Google",
+      "model": "Nest Hub"
+    },
+    {
+      "id": "11",
+      "category": "TV",
+      "brand": "Sony",
+      "model": "X90J"
+    },
+    {
+      "id": "12",
+      "category": "TV",
+      "brand": "LG",
+      "model": "OLED CX"
+    },
+    {
+      "id": "13",
+      "category": "Camera",
+      "brand": "Nikon",
+      "model": "D850"
+    },
+    {
+      "id": "14",
+      "category": "Camera",
+      "brand": "Canon",
+      "model": "EOS R5"
+    },
+    {
+      "id": "15",
+      "category": "Laptop",
+      "brand": "Microsoft",
+      "model": "Surface Laptop 4"
+    },
+    {
+      "id": "16",
+      "category": "Laptop",
+      "brand": "HP",
+      "model": "Spectre x360"
+    },
+    {
+      "id": "17",
+      "category": "Laptop",
+      "brand": "Asus",
+      "model": "Zephyrus G14"
+    },
+    {
+      "id": "18",
+      "category": "Earbuds",
+      "brand": "Apple",
+      "model": "AirPods Pro"
+    },
+    {
+      "id": "19",
+      "category": "Earbuds",
+      "brand": "Samsung",
+      "model": "Buds Pro"
+    },
+    {
+      "id": "20",
+      "category": "Drone",
+      "brand": "DJI",
+      "model": "Mavic Air 2"
+    },
+    {
+      "id": "21",
+      "category": "Action Camera",
+      "brand": "GoPro",
+      "model": "HERO9 Black"
+    },
+    {
+      "id": "22",
+      "category": "Streaming Device",
+      "brand": "Amazon",
+      "model": "Fire TV Stick 4K"
+    },
+    {
+      "id": "23",
+      "category": "Streaming Device",
+      "brand": "Roku",
+      "model": "Streaming Stick+"
+    },
+    {
+      "id": "24",
+      "category": "Fitness Tracker",
+      "brand": "Fitbit",
+      "model": "Charge 4"
+    },
+    {
+      "id": "25",
+      "category": "Fitness Tracker",
+      "brand": "Garmin",
+      "model": "Forerunner 245"
+    },
+    {
+      "id": "26",
+      "category": "Portable Speaker",
+      "brand": "JBL",
+      "model": "Flip 5"
+    },
+    {
+      "id": "27",
+      "category": "Portable Speaker",
+      "brand": "Ultimate Ears",
+      "model": "BOOM 3"
+    },
+    {
+      "id": "28",
+      "category": "Video Doorbell",
+      "brand": "Ring",
+      "model": "Video Doorbell 3"
+    },
+    {
+      "id": "29",
+      "category": "Smart Thermostat",
+      "brand": "Nest",
+      "model": "Nest Learning Thermostat"
+    },
+    {
+      "id": "30",
+      "category": "Smart Lighting",
+      "brand": "Philips Hue",
+      "model": "Hue White and Color Ambiance"
+    },
+    {
+      "id": "31",
+      "category": "Computer Mouse",
+      "brand": "Logitech",
+      "model": "MX Master 3"
+    },
+    {
+      "id": "32",
+      "category": "Gaming Mouse",
+      "brand": "Razer",
+      "model": "DeathAdder V2"
+    },
+    {
+      "id": "33",
+      "category": "Gaming Keyboard",
+      "brand": "Corsair",
+      "model": "K95 RGB Platinum XT"
+    },
+    {
+      "id": "34",
+      "category": "Gaming Keyboard",
+      "brand": "SteelSeries",
+      "model": "Apex Pro"
+    },
+    {
+      "id": "35",
+      "category": "Portable SSD",
+      "brand": "Samsung",
+      "model": "T7 Portable SSD"
+    },
+    {
+      "id": "36",
+      "category": "Portable Hard Drive",
+      "brand": "Western Digital",
+      "model": "My Passport"
+    },
+    {
+      "id": "37",
+      "category": "Monitor",
+      "brand": "LG",
+      "model": "UltraFine 5K"
+    },
+    {
+      "id": "38",
+      "category": "Monitor",
+      "brand": "Dell",
+      "model": "UltraSharp U2720Q"
+    },
+    {
+      "id": "39",
+      "category": "Smartwatch",
+      "brand": "Apple",
+      "model": "Watch Series 6"
+    },
+    {
+      "id": "40",
+      "category": "Smartwatch",
+      "brand": "Samsung",
+      "model": "Galaxy Watch 3"
+    },
+    {
+      "id": "41",
+      "category": "Smartwatch",
+      "brand": "Garmin",
+      "model": "Fenix 6 Pro"
+    },
+    {
+      "id": "42",
+      "category": "E-Reader",
+      "brand": "Amazon",
+      "model": "Kindle Paperwhite"
+    },
+    {
+      "id": "43",
+      "category": "Gaming Console",
+      "brand": "Sony",
+      "model": "PlayStation 5"
+    },
+    {
+      "id": "44",
+      "category": "Gaming Console",
+      "brand": "Microsoft",
+      "model": "Xbox Series X"
+    },
+    {
+      "id": "45",
+      "category": "Gaming Console",
+      "brand": "Nintendo",
+      "model": "Switch"
+    },
+    {
+      "id": "46",
+      "category": "Streaming Device",
+      "brand": "Nvidia",
+      "model": "Shield TV Pro"
+    },
+    {
+      "id": "47",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "Note 20"
+    },
+    {
+      "id": "48",
+      "category": "Camera",
+      "brand": "Sony",
+      "model": "A7 III"
+    },
+    {
+      "id": "49",
+      "category": "Smartphone",
+      "brand": "Samsung",
+      "model": "9 Pro"
+    },
+    {
+      "id": "7bf9",
+      "category": "trimmer",
+      "brand": "BPL",
+      "model": "C211-bt"
+    },
+    {
+      "id": "1cdb",
+      "category": "smart bag",
+      "brand": "Uppercase",
+      "model": "up-305"
+    },
+    {
+      "id": "3597",
+      "category": "watch",
+      "brand": "boat",
+      "model": "call wave"
+    },
+    {
+      "category": "Earbuds",
+      "brand": "realme",
+      "model": "buds 2",
+      "id": "a6ee"
+    }
+  ]
+}
