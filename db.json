@@ -431,9 +431,9 @@
       "id": "31",
       "name": "Logitech MX Master 3",
       "price": 99.99,
-      "model": "MX Master 3",
+      "model": "MX Master 3300",
       "brand": "Logitech",
-      "category": "Mouse",
+      "category": "Computer Mouse",
       "releaseYear": 2019,
       "features": [
         "Wireless",
@@ -711,41 +711,18 @@
     },
     {
       "id": "eb89",
-      "name": "asd",
-      "price": 3301,
-      "brand": "",
-      "category": "",
-      "releaseYear": 2122,
+      "name": "sasmung tab-s7 pro",
+      "price": 899,
+      "brand": "Samsung",
+      "category": "Tablet",
+      "releaseYear": 2023,
       "features": [
-        "6g",
-        "512gb storage",
-        "32gb ram"
-      ]
-    },
-    {
-      "id": "2de8",
-      "name": "",
-      "price": null,
-      "model": "EOS R5",
-      "brand": "Canon",
-      "category": "Camera",
-      "releaseYear": null,
-      "features": []
-    },
-    {
-      "id": "39f1",
-      "name": "BPL C211-bt",
-      "price": 199,
-      "model": "C211-bt",
-      "brand": "BPL",
-      "category": "trimmer",
-      "releaseYear": 2020,
-      "features": [
-        "90min playtime",
-        "30min charge",
-        "0-10mm",
-        "travel bag"
-      ]
+        "4g",
+        "128gb storage",
+        "8gb ram",
+        "e sim supported"
+      ],
+      "model": "Tab S7"
     },
     {
       "id": "022e",
@@ -907,8 +884,8 @@
       "name": "Smart Lighting"
     },
     {
-      "id": "17",
-      "name": "Mouse"
+      "name": "Computer Mouse",
+      "id": "17"
     },
     {
       "id": "18",
@@ -933,6 +910,10 @@
     {
       "id": "23",
       "name": "Gaming Console"
+    },
+    {
+      "id": "fb00",
+      "name": "asd"
     }
   ],
   "brands": [
@@ -1055,6 +1036,10 @@
     {
       "id": "490f",
       "name": "realme"
+    },
+    {
+      "id": "60d0",
+      "name": "asd"
     }
   ],
   "models": [
@@ -1239,10 +1224,10 @@
       "model": "Hue White and Color Ambiance"
     },
     {
-      "id": "31",
       "category": "Computer Mouse",
       "brand": "Logitech",
-      "model": "MX Master 3"
+      "model": "MX Master 3300",
+      "id": "31"
     },
     {
       "id": "32",
@@ -1375,6 +1360,12 @@
       "brand": "realme",
       "model": "buds 2",
       "id": "a6ee"
+    },
+    {
+      "id": "c664",
+      "category": "asd",
+      "brand": "asd",
+      "model": "asd 123"
     }
   ]
 }
